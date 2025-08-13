@@ -1,6 +1,6 @@
 ✨ InstaCaption+ — Caption & Hashtag Generator
-A Python + Gradio web app that generates creative Instagram captions and relevant hashtags based on your chosen mood, occasion, style, tone, and relation type.
-It uses the Ollama local LLM API with the gemma:2b model for fast, offline generation.
+- A Python + Gradio web app that generates creative Instagram captions and relevant hashtags based on your chosen mood, occasion, style, tone, and relation type.
+- It uses the Ollama local LLM API with the gemma:2b model for fast, offline generation.
 ---
 🖼 Demo Screenshot
 <table> <tr> <td><b>App Interface</b></td> </tr> <tr> <td><img src="assets/screenshot.png" width="700"/></td> </tr> </table>
