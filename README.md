@@ -65,12 +65,12 @@ Step 5 — (Optional) Test Ollama API
 
 - "python test_ollama.py"
 
-
-+ 🔖 License Disclaimer
+---
+🔖 License Disclaimer
 This project uses the gemma:2b model via Ollama, which is distributed under its respective license.
 Make sure to follow Ollama's terms when using the model.
-
+---
 
 👩‍💻 Author
-Diya J Naik
-@diyanaikk
+Diya Naik
+[@diyanaikk](https://github.com/diyanaikk)
